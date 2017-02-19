@@ -1,0 +1,42 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>WAVES</title>
+</head>
+<style>
+a:link    {color:white; background-color:transparent; text-decoration:none}
+ a:visited {color:white; background-color:transparent; text-decoration:none}
+a:hover   {color:white; background-color:white; text-decoration:underline}
+a:active  {color:white; background-color:transparent; text-decoration:underline}
+</style>
+
+<body>
+
+<h1>
+<p><center>
+  <strong><font color="#FFFFFF" face="arial">WAVES
+  </font>&nbsp;</strong>
+</center></p>
+ 
+<p>
+  <strong><font color="#FFFFFF" face="arial">
+   <a href="https://lunaboy.bandcamp.com/track/waves">// bandcamp</a> 
+  </font>&nbsp;</strong>
+</p>
+<p>
+  <strong><font color="#FFFFFF" face="arial">
+   <a href="https://soundcloud.com/luke-wood-2/luna-waves">// soundcloud</a> 
+  </font>&nbsp;</strong>
+</p>
+<body style="background-color:#fadcfb">
+  <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/278373281&amp;color=ffccff&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+ </body>
+
+</h1>
+ 
+
+</body>
+
+
+</html>
